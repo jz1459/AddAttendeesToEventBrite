@@ -1,0 +1,250 @@
+1680336420745	geckodriver	INFO	Listening on 127.0.0.1:51963
+1680336423811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofileSRbUDm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680336424085	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680336424088	Marionette	INFO	Listening on port 51973
+WebDriver BiDi listening on ws://127.0.0.1:51964
+Read port: 51973
+1680336424266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofileSRbUDm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51964/devtools/browser/e43bdd6a-a134-4be5-a536-37ba9939f54f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1680336846588	Marionette	INFO	Stopped listening on port 51973
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofileZ5HDid"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680336491200	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680336491204	Marionette	INFO	Listening on port 52172
+WebDriver BiDi listening on ws://127.0.0.1:52162
+Read port: 52172
+1680336491390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofileZ5HDid\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52162/devtools/browser/abd1191a-9077-4f1c-aa91-df088c9e8501
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1680336848678	Marionette	INFO	Stopped listening on port 52172
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofile2Wqcem"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680336732807	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680336732811	Marionette	INFO	Listening on port 52508
+WebDriver BiDi listening on ws://127.0.0.1:52497
+Read port: 52508
+1680336732994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofile2Wqcem\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52497/devtools/browser/1febefae-9043-4424-bf68-c8ede068e7f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1680336844462	Marionette	INFO	Stopped listening on port 52508
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofileSmlEw3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680336781162	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680336781166	Marionette	INFO	Listening on port 52686
+WebDriver BiDi listening on ws://127.0.0.1:52675
+Read port: 52686
+1680336781351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofileSmlEw3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52675/devtools/browser/53760cf4-728f-44dc-991f-d5d9376b7b25
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.eventbrite.com/reports?filterby=all,6281295429&rid=h&eid=602715407007, line 1257: TypeError: $pendingRefundRequestsAction is null
+1680336850863	Marionette	INFO	Stopped listening on port 52686
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680337607123	geckodriver	INFO	Listening on 127.0.0.1:53591
+1680337610211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofileQQiUWs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680337610452	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680337610456	Marionette	INFO	Listening on port 53601
+WebDriver BiDi listening on ws://127.0.0.1:53592
+Read port: 53601
+1680337610643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofileQQiUWs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53592/devtools/browser/67eebf2a-9c06-4d90-a9dd-96f59bbbf0ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1680337642803	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680337646530	Marionette	INFO	Stopped listening on port 53601
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680337662199	geckodriver	INFO	Listening on 127.0.0.1:53794
+1680337665265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofileqshdMx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680337665487	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680337665490	Marionette	INFO	Listening on port 53805
+WebDriver BiDi listening on ws://127.0.0.1:53795
+Read port: 53805
+1680337665671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jason\\AppData\\Local\\Temp\\rust_mozprofileqshdMx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53795/devtools/browser/4514b2f4-7700-45f8-875f-f733f6c3f422
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eventbrite.com."
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.eventbrite.com/attendees-add?eid=602715407007, line 1339: TypeError: Sentry.Integrations.ExtraErrorData is not a constructor
+1680337788161	Marionette	INFO	Stopped listening on port 53805
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
