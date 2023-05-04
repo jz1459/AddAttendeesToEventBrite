@@ -12,8 +12,8 @@ except:
     print(msg)
     sys.exit(msg)
 
-login = "jason.zheng@yale.edu"
-pwd = "aB6K6@7rDMMZz%Lji*!Qokfv"
+login = "username"
+pwd = "password"
 attendeeList = "please.csv" #Tab-delimited file containing the firstname, surname and email address of your attendees
 
 eventID = "602715407007" #eg open your event then see the URL to obtain the ID, eg https://www.eventbrite.com.au/myevent?eid=123456
